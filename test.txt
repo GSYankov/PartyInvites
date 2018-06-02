@@ -1,3 +1,0 @@
-GY test
-GY test 2
-GY test 3
